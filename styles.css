@@ -1,0 +1,16 @@
+html{
+    background-color: #EEEDED;
+}
+.blue-text{
+    color: #0D1282;
+}
+.yellow-text{
+    color: #F0DE36;
+}
+.red-text{
+    color: #D71313;
+}
+
+a{
+    font-size: 20px;
+}
